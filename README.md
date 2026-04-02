@@ -6,7 +6,7 @@ Basic Hangman game implemented in **Python** using **Streamlit** for the interfa
 Description
 - random word selections rnging from "python", "streamlit", "notebook", "sudoku", "hangman", "developer", "science", "statistics", "function", "variable", "array", "matrix", "pandas", "numpy", "visualization", "machine", "learning",
  "artificial", "trials", "errors", "testing"
-- stick man drawing represent each mistake 
+- stick man drawing represent each mistake  
 - user friendly with streamlit  
 ---
 
